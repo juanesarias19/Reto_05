@@ -53,146 +53,20 @@ Esto asegura que se instale una versión específica del paquete.
 
 A continuación se presenta una lista con los módulos mas populares de python
 
-**1. NumPy**
-- **Uso:** Cálculo numérico y manejo de arrays multidimensionales.
-- **Instalación:**
-  ```
-  pip install numpy
-  ```
-
-**2. Pandas**
-- **Uso:** Manipulación y análisis de datos tabulares.
-- **Instalación:**
-  ```
-  pip install pandas
-  ```
-
-**3. Matplotlib**
-- **Uso:** Creación de gráficos 2D y visualización de datos.
-- **Instalación:**
-  ```
-  pip install matplotlib
-  ```
-
-**4. Seaborn**
-- **Uso:** Visualización de datos estadísticos con gráficos atractivos.
-- **Instalación:**
-  ```
-  pip install seaborn
-  ```
-
-**5. Scikit-learn**
-- **Uso:** Aprendizaje automático (Machine Learning).
-- **Instalación:**
-  ```
-  pip install scikit-learn
-  ```
-
-**6. TensorFlow**
-- **Uso:** Desarrollo de modelos de aprendizaje profundo (Deep Learning).
-- **Instalación:**
-  ```
-  pip install tensorflow
-  ```
-
-**7. Flask**
-- **Uso:** Desarrollo de aplicaciones web ligeras.
-- **Instalación:**
-  ```
-  pip install flask
-  ```
-
-**8. Django**
-- **Uso:** Desarrollo de aplicaciones web robustas y de gran escala.
-- **Instalación:**
-  ```
-  pip install django
-  ```
-
-**9. Requests**
-- **Uso:** Realizar solicitudes HTTP sencillas y eficientes.
-- **Instalación:**
-  ```
-  pip install requests
-  ```
-
-**10. Beautiful Soup (bs4)**
-- **Uso:** Análisis y extracción de datos de documentos HTML y XML (web scraping).
-- **Instalación:**
-  ```
-  pip install beautifulsoup4
-  ```
-
-
-
-**11. Pillow**
-- **Uso:** Manipulación y procesamiento de imágenes.
-- **Instalación:**
-  ```
-    pip install pillow
-  ```
-
-
-
-**12. PyTorch**
-- **Uso:** Desarrollo de modelos de aprendizaje profundo (Deep Learning).
-- **Instalación:**
-  ```
-  pip install torch torchvision
-  ```
-
-**13. OpenCV**
-- **Uso:** Procesamiento y análisis de imágenes y videos.
-- **Instalación:**
-  ```
-  pip install opencv-python
-  ```
-
-**14. SQLAlchemy**
-- **Uso:** Manejo de bases de datos relacionales utilizando mapeo objeto-relacional (ORM).
-- **Instalación:**
-  ```bash
-  pip install sqlalchemy
-  ```
-
-**15. FastAPI**
-- **Uso:** Creación de API rápidas y modernas.
-- **Instalación:**
-  ```bash
-  pip install fastapi uvicorn
-  ```
-
-**16. PyGame**
-- **Uso:** Desarrollo de videojuegos.
-- **Instalación:**
-  ```bash
-  pip install pygame
-  ```
-
-**17. Jupyter Notebook**
-- **Uso:** Crear y compartir documentos interactivos que contienen código, texto y gráficos.
-- **Instalación:**
-  ```bash
-  pip install notebook
-  ```
-
-**18. SciPy**
-- **Uso:** Funciones avanzadas para álgebra lineal, optimización, integración y estadística.
-- **Instalación:**
-  ```bash
-  pip install scipy
-  ```
-
-**19. Bokeh**
-- **Uso:** Creación de visualizaciones de datos interactivas y basadas en navegador.
-- **Instalación:**
-  ```bash
-  pip install bokeh
-  ```
-
-**20. Plotly**
-- **Uso:** Visualización interactiva y avanzada de datos.
-- **Instalación:**
-  ```
-  pip install plotly
-  ```
+|   | Library         | Usage                                                          | Installation Command          |
+|---|-----------------|----------------------------------------------------------------|--------------------------------|
+| 1| **NumPy**       | Numerical computation and handling multidimensional arrays.    | ```pip install numpy```       |
+| 2 | **Pandas**      | Data manipulation and analysis of tabular data.               | ```pip install pandas```      |
+|3| **Matplotlib**  | Creating 2D plots and data visualizations.                    | ```pip install matplotlib```  |
+|4| **Seaborn**     | Statistical data visualization with attractive charts.        | ```pip install seaborn```     |
+|5| **Scikit-learn**| Machine Learning.                                             | ```pip install scikit-learn```|
+|6| **TensorFlow**  | Building deep learning models.                                | ```pip install tensorflow```  |
+|7| **Flask**       | Lightweight web application development.                      | ```pip install flask```       |
+|8| **Django**      | Robust and scalable web application development.              | ```pip install django```      |
+|9| **Requests**    | Efficient HTTP requests.                                      | ```pip install requests```    |
+|10| **PyTorch**     | Building deep learning models.                                | ```pip install torch torchvision``` |
+|11| **OpenCV**      | Image and video processing.                                   | ```pip install opencv-python```|
+|12| **FastAPI**     | Fast and modern API development.                              | ```pip install fastapi uvicorn```|
+|13| **Jupyter Notebook** | Create and share interactive documents with code, text, and visualizations. | ```pip install notebook```|
+|14| **SciPy**       | Advanced functions for linear algebra, optimization, integration, and statistics. | ```pip install scipy```|
+|16| **Plotly**      | Interactive and advanced data visualization.                  | ```pip install plotly```      |
